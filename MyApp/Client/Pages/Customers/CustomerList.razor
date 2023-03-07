@@ -1,0 +1,66 @@
+﻿@page "/Customers/List"
+@using MyApp.Shared.DTO;
+<div class="row">
+    <div class="col-12">
+        <h3 class="text-center p-3 shadow">All Customers</h3>
+       @* <div class="d-flex justify-content-start mb-1">
+           
+        </div>*@
+        @if(customers is null)
+        {
+            <div class="row m-5">
+                <div class="col-6 m-auto p-5 bg-danger shadow-lg">
+                    <h4 class="text-white p-2">No data available here...</h4>
+                </div>
+            </div>
+        }
+        else
+        {
+            <table class="table table-bordered mt-4 table-hover table-striped" >
+                <thead class="text-end text-white" style="background-color:cadetblue">
+                    <tr>
+                        <th>
+                            <a href="/Customers/Create" class="btn btn-primary btn-sm shadow" style="display:block;"><i class="bi bi-plus"></i> Add New</a>
+                        </th>
+                        <th>Customer name</th>
+                        <th>Address</th>
+                        <th>E-mail</th>
+                       
+                    </tr>
+
+                </thead>
+                <tbody>
+                    @foreach(var c in customers)
+                    {
+                        <tr>
+                            <td class="text-center">
+                                <a class="btn btn-success btn-sm" href="/Customers/edit/@c.CustomerID"><i class="bi bi-pencil"></i></a>
+                                <a class="btn btn-danger btn-sm @getDisabledClass(c.CanDelete)" href="/Customers/delete/@c.CustomerID"><i class="bi bi-trash"></i></a>
+                            </td>
+                            <td>@c.CustomerName</td>
+                            <td>@c.Address</td>
+                            <td>@c.Email</td>
+                            
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+
+
+@inject HttpClient http
+@code {
+    private CustomerDTO[]? customers;
+    protected override async Task OnInitializedAsync()
+    {
+        customers = await this.http.GetFromJsonAsync<CustomerDTO[]>("api/Customers/DTO");
+    }
+    public string getDisabledClass(bool canDelete)
+    {
+        return canDelete ? "" : "disabled";
+    }
+
+}

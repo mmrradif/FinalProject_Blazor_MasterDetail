@@ -1,0 +1,60 @@
+﻿@page "/Orders/List"
+@inject HttpClient http
+
+<div class="row">
+    <div class="col-12">
+        <h3>Orders</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a class="btn btn-primary btn-sm" href="/Orders/Create">Create New</a>
+        </div>
+        @if(orders is null)
+        {
+            <div>Loading..</div>
+        }
+        else
+        {
+            <table class="table table-bordered table-hover">
+                <thead class="table-light">
+                    <tr>
+                        <th>Order Date</th>
+                        <th>Customer</th>
+                        <th>Delivery date</th>
+                        <th>Status</th>
+                        <th>Items</th>
+                        <th>Order Value</th>
+                        <th>Details</th>
+                        <th>...</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var o in orders)
+                    {
+                        <tr>
+                            <td>@o.OrderDate.ToString("yyyy-MM-dd")</td>
+                            <td>@o.CustomerName</td>
+                            <td>@o.DeliveryDate?.ToString("yyyy-MM-dd")</td>
+                            <td>@o.Status</td>
+                            <td>@o.ItemCount</td>
+                            <td>@o.OrderValue.ToString("0.00")</td>
+                            <td>
+                                <a class="btn btn-link" href="/Orders/Details/@o.OrderID">Details</a>
+                            </td>
+                            <td>
+
+                                <a class="btn btn-primary btn-sm" href="/Orders/Edit/@o.OrderID">Edit</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+@code {
+    private OrderViewDTO[]? orders;
+    protected override async Task OnInitializedAsync()
+    {
+        orders = await http.GetFromJsonAsync<OrderViewDTO[]>("api/Orders/DTO");
+    }
+}

@@ -1,0 +1,71 @@
+﻿@page "/Customers/Delete/{id:int}"
+@using Blazored.Toast.Services;
+@using MyApp.Shared.Models;
+@inject HttpClient http
+@inject IToastService toastService
+@inject NavigationManager nav
+<div class="row">
+    <div class="col-12">
+        @if (customer is null)
+        {
+            <div>Loading...</div>
+        }
+        else
+        {
+            <EditForm Model="@customer" OnValidSubmit="DeleteCustomer">
+                <h3>Are you sure to delete</h3>
+                <DataAnnotationsValidator />
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@customer.CustomerName">Customer name</label>
+                    <div class="col-4">
+                        @customer.CustomerName
+                        
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@customer.Address">Address</label>
+                    <div class="col-4">
+                        @customer.Address
+                       
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@customer.Email">Email</label>
+                    <div class="col-4">
+                        @customer.Email
+                        
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+
+                    <div class="col-4 offset-2">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+
+                    </div>
+                </div>
+            </EditForm>
+        }
+    </div>
+    <div class="col-12">
+        <a href="/Customers/List" class="btn btn-link">Back to list</a>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+    private Customer? customer = default!;
+    protected override async Task OnInitializedAsync()
+    {
+        customer = await http.GetFromJsonAsync<Customer>($"api/Customers/{id}");
+    }
+    private async Task DeleteCustomer()
+    {
+        var respose = await http.DeleteAsync($"api/Customers/{id}");
+        if (respose.IsSuccessStatusCode)
+        {
+            toastService.ShowSuccess("Data deleted successsfully", "Success");
+            nav.NavigateTo("/Customers/List");
+        }
+    }
+}

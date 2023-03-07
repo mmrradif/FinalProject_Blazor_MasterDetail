@@ -1,0 +1,125 @@
+﻿@page "/Products/Edit/{id:int}"
+@using System.Net.Http.Headers;
+@inject HttpClient http
+@inject IToastService toastService
+<div class="row">
+    @if (product is null)
+    {
+        <div class="col-12">Loading...</div>
+    }
+    else
+    {
+        <div class="col-9">
+            <EditForm Model="@product" OnValidSubmit="SaveProduct">
+                <h3>Create Product</h3>
+                <DataAnnotationsValidator />
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@product.ProductName">Product name</label>
+                    <div class="col-4">
+                        <InputText @bind-Value="product.ProductName" class="form-control" />
+                        <ValidationMessage For="@(()=>product.ProductName)" class="text-danger" />
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@product.Price">Product price</label>
+                    <div class="col-4">
+                        <InputNumber @bind-Value="product.Price" class="form-control" />
+                        <ValidationMessage For="@(()=>product.Price)" class="text-danger" />
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@product.ProductName">Picture</label>
+                    <div class="col-4">
+                        <InputFile OnChange="@OnInputFileChange" class="form-control" />
+
+
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@product.IsAvailable">Available</label>
+                    <div class="col-4">
+                        <InputCheckbox @bind-Value="product.IsAvailable" class="mt-2" />
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+
+                    <div class="col-4 offset-2">
+                        <button type="submit" class="btn btn-primary">Update</button>
+
+                    </div>
+                </div>
+            </EditForm>
+        </div>
+        <div class="col-3">
+            @if (product is not null)
+            {
+                <img src="/Uploads/@product.Picture" class="img-thumbnail" style="width:150px" />
+            }
+        </div>
+    }
+    <div class="col-12">
+        <a href="/Products/List" class="btn btn-link">Back to list</a>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+    private ProductEditDTO? product=new();
+    IBrowserFile? selectedFile;
+    protected override async Task OnInitializedAsync()
+    {
+        product = await http.GetFromJsonAsync<ProductEditDTO>($"api/Products/{id}");
+    }
+    private void OnInputFileChange(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
+
+
+        //this.StateHasChanged();
+    }
+    public async Task SaveProduct()
+    {
+        if (selectedFile is not null)
+        {
+            
+            if(product is not null)
+            {
+                var saveImage = await UploadItAsysnc();
+                product.Picture = saveImage.StoredFileName;
+                
+            }
+        }
+        var response = await http.PutAsJsonAsync($"api/Products/{id}", product);
+        if (response.IsSuccessStatusCode)
+        {
+            //toastService.ShowSuccess("Data updated successfully", "Success");
+        }
+        else
+        {
+            //toastService.ShowError("Failed to update data.", "Error");
+        }
+    }
+    private async Task<ImageUploadResponse> UploadItAsysnc()
+    {
+        using (var ms = new MemoryStream())
+        {
+            if (selectedFile is not null)
+            {
+                var content = new MultipartFormDataContent();
+                var fileContent = new StreamContent(selectedFile.OpenReadStream(long.MaxValue));
+
+                fileContent.Headers.ContentType = new MediaTypeHeaderValue(selectedFile.ContentType);
+                content.Add(content: fileContent, name: "\"file\"", fileName: selectedFile.Name);
+                var response = await http.PostAsync("api/Products/Upload", content);
+                var r = await response.Content.ReadFromJsonAsync<ImageUploadResponse>();
+                return r == null ? new ImageUploadResponse() : r;
+            }
+            else
+            {
+                return new ImageUploadResponse();
+            }
+
+        }
+    }
+}

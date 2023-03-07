@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Blazor Project\\MyApp_R51\\MyApp\\Server\\wwwroot\\Uploads\\dml1x4dt.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\dml1x4dt.jpg"
+    },
+    {
+      "Id": "F:\\Blazor Project\\MyApp_R51\\MyApp\\Server\\wwwroot\\Uploads\\exysmiay.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\exysmiay.jpg"
+    },
+    {
+      "Id": "F:\\Blazor Project\\MyApp_R51\\MyApp\\Server\\wwwroot\\Uploads\\hm3vi2tg.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\hm3vi2tg.jpg"
+    },
+    {
+      "Id": "F:\\Blazor Project\\MyApp_R51\\MyApp\\Server\\wwwroot\\Uploads\\j0xn4dhl.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\j0xn4dhl.jpg"
+    },
+    {
+      "Id": "F:\\Blazor Project\\MyApp_R51\\MyApp\\Server\\wwwroot\\Uploads\\jplhjrel.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\jplhjrel.jpg"
+    },
+    {
+      "Id": "F:\\Blazor Project\\MyApp_R51\\MyApp\\Server\\wwwroot\\Uploads\\muirteot.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\muirteot.jpg"
+    },
+    {
+      "Id": "F:\\Blazor Project\\MyApp_R51\\MyApp\\Server\\wwwroot\\Uploads\\r0flhy1o.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\r0flhy1o.jpg"
+    },
+    {
+      "Id": "F:\\Blazor Project\\MyApp_R51\\MyApp\\Server\\wwwroot\\Uploads\\ua2jvrqw.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ua2jvrqw.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyApp.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MyApp.Server.props",
+      "PackagePath": "build\\MyApp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MyApp.Server.props",
+      "PackagePath": "buildMultiTargeting\\MyApp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MyApp.Server.props",
+      "PackagePath": "buildTransitive\\MyApp.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

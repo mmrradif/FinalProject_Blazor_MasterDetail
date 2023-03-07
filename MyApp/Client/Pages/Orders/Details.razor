@@ -1,0 +1,76 @@
+﻿@page "/Orders/Details/{id:int}"
+@inject HttpClient http
+<div class="row">
+    <div class="row m-5 p-5">
+        <h3>Order Details</h3>
+        @if (order is null)
+        {
+            <div>Loading...</div>
+        }
+        else
+        {
+            <div class="row mb-1">
+                <label class="col-2 text-end">Order Date</label>
+                <div class="col-10">
+                    @order.OrderDate.ToString("yyyy-MM-dd")
+                </div>
+            </div>
+            <div class="row mb-1">
+                <label class="col-2 text-end">Customer</label>
+                <div class="col-10">
+                    @order.CustomerName
+                </div>
+            </div>
+                 <div class="row mb-1">
+                    <label class="col-2 text-end">Delivery date</label>
+                    <div class="col-10">
+                    @order.DeliveryDate?.ToString("yyyy-MM-dd")
+                    </div>
+                </div>
+            <div class="row mb-1">
+                <label class="col-2 text-end">Status</label>
+                <div class="col-10">
+                    @order.Status
+                </div>
+            </div>
+            @if(orderItems is not null)
+            {
+                <div><h4>Items</h4></div>
+                <table class="table table-bordered">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Product</th>
+                            <th>Quantity</th>
+                            <th>Sub-total</th>
+                        </tr>
+                    </thead>
+                   <tbody>
+                        @foreach(var oi in orderItems)
+                    {
+                        <tr>
+                            <td>@oi.ProductName</td>
+                            <td>@oi.Quantity</td>
+                            <td>@((oi.Price*oi.Quantity).ToString("0.00"))</td>
+                        </tr>
+                    }
+                   </tbody>
+                </table>
+            }
+        }
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+    private OrderViewDTO? order;
+    private OrderItemViewDTO[]? orderItems;
+    protected override async Task OnInitializedAsync()
+    {
+        order = await http.GetFromJsonAsync<OrderViewDTO>($"api/Orders/DTO/{id}");
+        if (order is not null)
+        {
+            orderItems = await http.GetFromJsonAsync<OrderItemViewDTO[]>($"api/Orders/Items/{id}");
+        }
+    }
+}

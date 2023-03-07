@@ -1,0 +1,309 @@
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Client.staticwebassets.runtime.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\appsettings.Development.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\appsettings.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.staticwebassets.runtime.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.exe
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.deps.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.runtimeconfig.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.pdb
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Azure.Core.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Humanizer.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Client.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Shared.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Client.pdb
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Shared.pdb
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.csproj.AssemblyReference.cache
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.AssemblyInfoInputs.cache
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.AssemblyInfo.cs
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.csproj.CoreCompileInputs.cache
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.RazorAssemblyInfo.cache
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.RazorAssemblyInfo.cs
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.MyApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.MyApp.Server.props
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyApp.Server.props
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyApp.Server.props
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\scopedcss\bundle\MyApp.Server.styles.css
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.csproj.CopyComplete
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\refint\MyApp.Server.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.pdb
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.genruntimeconfig.cache
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\obj\Debug\net7.0\ref\MyApp.Server.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Blazored.Toast.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Server\bin\Debug\net7.0\libman.json
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\libman.json
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\appsettings.Development.json
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\appsettings.json
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Client.staticwebassets.runtime.json
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.staticwebassets.runtime.json
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.exe
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.deps.json
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.runtimeconfig.json
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.pdb
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Azure.Core.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Blazored.Toast.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Humanizer.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Client.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Shared.dll
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Client.pdb
+E:\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Shared.pdb
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.csproj.AssemblyReference.cache
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.AssemblyInfoInputs.cache
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.AssemblyInfo.cs
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.csproj.CoreCompileInputs.cache
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.RazorAssemblyInfo.cache
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.RazorAssemblyInfo.cs
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.MyApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.MyApp.Server.props
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyApp.Server.props
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyApp.Server.props
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\scopedcss\bundle\MyApp.Server.styles.css
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.csproj.CopyComplete
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.dll
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\refint\MyApp.Server.dll
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.pdb
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.genruntimeconfig.cache
+E:\MyApp_R51\MyApp\Server\obj\Debug\net7.0\ref\MyApp.Server.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\libman.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\appsettings.Development.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\appsettings.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Client.staticwebassets.runtime.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.staticwebassets.runtime.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.exe
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.deps.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.runtimeconfig.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Server.pdb
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Azure.Core.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Blazored.Toast.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Humanizer.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Client.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Shared.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Client.pdb
+F:\Blazor Project\MyApp_R51\MyApp\Server\bin\Debug\net7.0\MyApp.Shared.pdb
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.csproj.AssemblyReference.cache
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.AssemblyInfoInputs.cache
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.AssemblyInfo.cs
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.csproj.CoreCompileInputs.cache
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.RazorAssemblyInfo.cache
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.RazorAssemblyInfo.cs
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.MyApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.MyApp.Server.props
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyApp.Server.props
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyApp.Server.props
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\scopedcss\bundle\MyApp.Server.styles.css
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.csproj.CopyComplete
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\refint\MyApp.Server.dll
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.pdb
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\MyApp.Server.genruntimeconfig.cache
+F:\Blazor Project\MyApp_R51\MyApp\Server\obj\Debug\net7.0\ref\MyApp.Server.dll

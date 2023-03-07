@@ -1,0 +1,36 @@
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\bin\Debug\net7.0\MyApp.Shared.deps.json
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\bin\Debug\net7.0\MyApp.Shared.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\bin\Debug\net7.0\MyApp.Shared.pdb
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.csproj.AssemblyReference.cache
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.AssemblyInfoInputs.cache
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.AssemblyInfo.cs
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.csproj.CoreCompileInputs.cache
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\refint\MyApp.Shared.dll
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.pdb
+F:\Prac\Az_Blzr\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\ref\MyApp.Shared.dll
+E:\MyApp_R51\MyApp\Shared\bin\Debug\net7.0\MyApp.Shared.deps.json
+E:\MyApp_R51\MyApp\Shared\bin\Debug\net7.0\MyApp.Shared.dll
+E:\MyApp_R51\MyApp\Shared\bin\Debug\net7.0\MyApp.Shared.pdb
+E:\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.csproj.AssemblyReference.cache
+E:\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.AssemblyInfoInputs.cache
+E:\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.AssemblyInfo.cs
+E:\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.csproj.CoreCompileInputs.cache
+E:\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.dll
+E:\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\refint\MyApp.Shared.dll
+E:\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.pdb
+E:\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\ref\MyApp.Shared.dll
+F:\Blazor Project\MyApp_R51\MyApp\Shared\bin\Debug\net7.0\MyApp.Shared.deps.json
+F:\Blazor Project\MyApp_R51\MyApp\Shared\bin\Debug\net7.0\MyApp.Shared.dll
+F:\Blazor Project\MyApp_R51\MyApp\Shared\bin\Debug\net7.0\MyApp.Shared.pdb
+F:\Blazor Project\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.csproj.AssemblyReference.cache
+F:\Blazor Project\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Blazor Project\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.AssemblyInfoInputs.cache
+F:\Blazor Project\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.AssemblyInfo.cs
+F:\Blazor Project\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.csproj.CoreCompileInputs.cache
+F:\Blazor Project\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.dll
+F:\Blazor Project\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\refint\MyApp.Shared.dll
+F:\Blazor Project\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\MyApp.Shared.pdb
+F:\Blazor Project\MyApp_R51\MyApp\Shared\obj\Debug\net7.0\ref\MyApp.Shared.dll
